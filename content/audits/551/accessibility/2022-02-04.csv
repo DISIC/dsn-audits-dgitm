@@ -1,108 +1,108 @@
-"Thématiques","Critères","Accueil","Espace Plaisancier (non connecté)","Mentions légales","Accessibilité","FAQ","Aide"
-"1","1","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”. Les 4 images de la page n'ont pas d'attribut `alt`.","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”"
-"1","2","na","na","na","na","na","na"
+"Thématiques","Critères","Accueil","Espace Plaisancier (non connecté)","Mentions légales","Accessibilité","FAQ","Aide",Espace Plaisancier (connecté),Mon tableau de bord,Déclarer l'acquisition,Mes données personnelles,Gérer mon navire - étape 1,Gérer mon navire - étape 2,Gérer mon navire - étape 3
+"1","1","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”. Les 4 images de la page n'ont pas d'attribut `alt`.","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”","nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”",nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”,nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”,nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”,nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”,nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”,nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”,nc|!F!L’icône « home » de la navigation n’a pas d’alternative. Il manque un attribut aria-label=”accueil démarches plaisance”
+"1","2","na","na","na","na","na","na",,,,,,,
 "1","3","nc|!F!Le bloc marque devrait avoir un alt=”Ministère de la mer” 
-Dans ”Les actus de la mer”, les images doivent avoir un alt=””","nc|!F!Le bloc marque devrait avoir un alt=”Ministère de la mer”, l'image FranceConnect devrait avoir un alt=""S'identifier avec FranceConnect"" ","nc|!F!Le bloc marque devrait avoir un alt=”Ministère de la mer” ","nc|!F!Le bloc marque devrait avoir un alt=”Ministère de la mer” ","nc|!F!Le bloc marque devrait avoir un alt=”Ministère de la mer” ","nc|!F!Le bloc marque devrait avoir un alt=”Ministère de la mer” "
-"1","4","na","na","na","na","na","na"
-"1","5","na","na","na","na","na","na"
-"1","6","na","na","na","na","na","na"
-"1","7","na","na","na","na","na","na"
-"1","8","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil""","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil""","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil""","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil""","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil""","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil"""
-"1","9","na","na","na","na","na","na"
-"2","1","na","na","na","na","na","na"
-"2","2","na","na","na","na","na","na"
-"3","1","nc|!F!Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.","nc|!F!Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.","c","nc|!F!Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.","nc|!F!Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.","nc|!F!Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner."
-"3","2","nc|!F!Le contraste de la mention ""Publié le 05/01/2022"" n'est pas sufficant","c","c","c","c","c"
-"3","3","na","na","na","na","na","na"
-"4","1","na","na","na","na","na","na"
-"4","2","na","na","na","na","na","na"
-"4","3","na","na","na","na","na","na"
-"4","4","na","na","na","na","na","na"
-"4","5","na","na","na","na","na","na"
-"4","6","na","na","na","na","na","na"
-"4","7","na","na","na","na","na","na"
-"4","8","na","na","na","na","na","na"
-"4","9","na","na","na","na","na","na"
-"4","10","na","na","na","na","na","na"
-"4","11","na","na","na","na","na","na"
-"4","12","na","na","na","na","na","na"
-"4","13","na","na","na","na","na","na"
-"5","1","na","na","na","na","na","na"
-"5","2","na","na","na","na","na","na"
-"5","3","na","na","na","na","na","na"
-"5","4","na","na","na","na","na","na"
-"5","5","na","na","na","na","na","na"
-"5","6","na","na","na","na","na","na"
-"5","7","na","na","na","na","na","na"
-"5","8","na","na","na","na","na","na"
-"6","1","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description"
-"6","2","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1.","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1.","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1.","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1.","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1.","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1."
-"7","1","nc|!M!Chaque actualité s’ouvre dans une fenêtre modale qui ne respecte pas le design pattern aria. Le lien ""Voir plus d'actualités"" pose également problème et n'est pas utilisable au clavier","nc|!M!Le bouton Franceconnect n'est ni un élément bouton et ni un lien (pas d'attribut ""href""... ","na","na","nc|!M!La faq n'est pas utilisable au clavier : les questions ne prennent pas le focus et les définitions ne peuvent pas être pliées ou déplies","na"
-"7","2","na","na","na","na","na","na"
-"7","3","na","na","na","na","na","na"
-"7","4","nc|L'utilisateur n'est pas averti du chargement de nouvelles actualités","na","na","na","nc|!M!La faq utilise les attributs `role=""tab*""` mais ne respecte pas scrupuleusement le [design pattern aria correpondant](https://www.w3.org/TR/wai-aria-practices/#tabpanel). D'ailleurs, un composant [accordéon](https://gouvfr.atlassian.net/wiki/spaces/DB/pages/312082509/Accord+on+-+Accordion) ou collapse serait plus approprié","na"
-"7","5","na","na","na","na","na","na"
-"8","1","c","c","c","c","c","c"
-"8","2","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)"
-"8","3","c","c","c","c","c","c"
-"8","4","nc","nc","nc","nc","nc","nc"
-"8","5","c","c","c","c","c","c"
-"8","6","c","c","c","c","c","c"
-"8","7","na","na","na","na","na","na"
-"8","8","na","na","na","na","na","na"
-"8","9","nc","nc|Le texte n'utilise pas les balises sémantiques adaptées `<p>`, '<ul><li>`","nc|Le texte n'utilise pas de balises `<p>`","nc|Le texte n'utilise pas de balises `<p>`","nc|des éléments `<p>`sont utilisés à des fns de présentations pour ""sauter"" des lignes","c"
-"8","10","na","na","na","na","na","na"
-"9","1","nc|!F!Il manque une balise `<h1>`. ""Les actus de la mer"" devrait être dans un élément `<h2>`, chaque titre d'actu dans une élément `<h3>`. ""Informations générales"" et ""Liens utiles"" n'ont pas besoin d'être dans un `<hx>`","nc|!F!Il manque un `<h1>Espace plaisancier</h1>`. ""Se connecter"" et ""Payer le DAFN/DAP"" devraient être dans une balise `<h2>`. Retirer les balises `<hx>` d'""Informations générales"" et ""liens utiles""","nc|!F!`<h1>Mentions légales</h1>`, `<h2> Éditeur</h2>`, `<h2>Directeur de la publication</h2>`, `<h2> Hébergement </h2>`. Retirer les balises `<hx>` d'""Informations générales"" et ""liens utiles""","nc|!F!Mettre `<h1>Accessiblité</h1>` et les autres titres titres dans des balises `<h2>`. Retirer les balises `<hx>` d'""Informations générales"" et ""liens utiles""","nc|!F!`<h1>FAQ</h1>`, `<h2>Questions...</h2>` et chaque question dans une balise `<h3>`. Retirer les balises `<hx>` d'""Informations générales"" et ""liens utiles""","nc|!F!`<h1>Information et aide</h1>`, `<h2>Comment obtenir de l'aide</h2>` , `<h3>Plaisanciers</h3>`, `<h3>Professionnels de la plaisance</h3>`. Retirer les balises `<hx>` d'""Informations générales"" et ""liens utiles""."
-"9","2","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'"
-"9","3","c","nc|Une (voire plusieurs) liste à puce devrait structurer le contenu","c","c","nc|!F!Chaque ensemble de Q/R ne doit contenir qu'un seul élément `<dl>`qui contient plusieurs `<dt><dl>'. Dans les réponses, on devrait trouver des élements `<ul><li>` plutôt que des ""tirets et des sauts de ligne""","c"
-"9","4","na","na","na","na","na","na"
-"10","1","c","c","c","c","nc|on trouve une balise `<font color=""#000000"">'. Les balises servant à la présentation de l’information sont interdites.",
-"10","2","c","c","c","c","nc|Les questions et les réponses ne sont pas affichées avec la css désactivée","c"
-"10","3","c","c","c","c","nc|Les questions et les réponses ne sont pas affichées avec la css désactivée","c"
-"10","4","c","c","c","c","c","c"
-"10","5","c","c","c","c","c","c"
-"10","6","nc|!F!Les liens doivent être soulignés","nc|!F!Les liens doivent être soulignés","nc|!F!Les liens doivent être soulignés","nc|!F!Les liens doivent être soulignés","nc|!F!Les liens doivent être soulignés","nc|!F!Les liens doivent être soulignés"
-"10","7","nc|Aucun élément de la section ""Les actus de la mer"" ne prend le focus. Ça serait bien d'harmonisr l'outline (qui n'est pas le même sur tous les éléments)","nc|Le lien FC ne prend le focus. Ça serait bien d'harmonisr l'outline (qui n'est pas le même sur tous les éléments)","c","c","nc|!M!Aucun élément de la faq ne prend le focus. Le titre ""FAQ"" prend le focus alors qu'il ne devrait pas.","c"
-"10","8","na","na","na","na","c","na"
-"10","9","c","c","c","c","c","c"
-"10","10","na","na","na","na","na","na"
-"10","11","nc|Perte du menu en petite résolution","nc|Perte du menu en petite résolution","nc|Perte du menu en petite résolution","nc|Perte du menu en petite résolution","nc|Perte du menu en petite résolution","nc|Perte du menu en petite résolution"
-"10","12","c","c","c","c","c","c"
-"10","13","na","na","na","na","na","na"
-"10","14","na","na","na","na","na","na"
-"11","1","na","na","na","na","na","na"
-"11","2","na","na","na","na","na","na"
-"11","3","na","na","na","na","na","na"
-"11","4","na","na","na","na","na","na"
-"11","5","na","na","na","na","na","na"
-"11","6","na","na","na","na","na","na"
-"11","7","na","na","na","na","na","na"
-"11","8","na","na","na","na","na","na"
-"11","9","na","na","na","na","na","na"
-"11","10","na","na","na","na","na","na"
-"11","11","na","na","na","na","na","na"
-"11","12","na","na","na","na","na","na"
-"11","13","na","na","na","na","na","na"
-"12","1","nc",,,,,
-"12","2","c","c","c","c","c","c"
-"12","3","nc","nc","nc","nc","nc","nc"
-"12","4","na","na","na","na","na","na"
-"12","5","na","na","na","na","na","na"
-"12","6","nc","nc","nc","nc","nc","nc"
-"12","7","nc","nc","nc","nc","nc","nc"
-"12","8","nc","nc","c","c","nc","c"
-"12","9","nc","nc","nc","nc","nc","nc"
-"12","10","na","na","na","na","na","na"
-"12","11","na","na","na","na","na","na"
-"13","1","c","c","c","c","c","c"
-"13","2","na","na","na","na","na","na"
-"13","3","na","na","na","na","na","nc|Le pdf ou la version html de l'aide ne semble pas accessible"
-"13","4","na","na","na","na","na","na"
-"13","5","c","c","c","c","c","c"
-"13","6","c","c","c","c","c","c"
-"13","7","c","c","c","c","c","c"
-"13","8","c","c","c","c","c","c"
-"13","9","c","c","c","c","c","c"
-"13","10","na","na","na","na","na","na"
-"13","11","na","na","na","na","na","na"
-"13","12","na","na","na","na","na","na"
+Dans ”Les actus de la mer”, les images doivent avoir un alt=””","nc|!F!Le bloc marque devrait avoir un alt=”Ministère de la mer”, l'image FranceConnect devrait avoir un alt=""S'identifier avec FranceConnect"" ","nc|!F!Le bloc marque devrait avoir un alt=”Ministère de la mer” ","nc|!F!Le bloc marque devrait avoir un alt=”Ministère de la mer” ","nc|!F!Le bloc marque devrait avoir un alt=”Ministère de la mer” ","nc|!F!Le bloc marque devrait avoir un alt=”Ministère de la mer” ",,,,,,,
+"1","4","na","na","na","na","na","na",,,,,,,
+"1","5","na","na","na","na","na","na",,,,,,,
+"1","6","na","na","na","na","na","na",,,,,,,
+"1","7","na","na","na","na","na","na",,,,,,,
+"1","8","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil""","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil""","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil""","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil""","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil""","nc|!F!L'image ""home"" du menu pourrait être remplacée par le mot ""Accueil""",,,,,,,
+"1","9","na","na","na","na","na","na",,,,,,,
+"2","1","na","na","na","na","na","na",,,,,,,
+"2","2","na","na","na","na","na","na",,,,,,,
+"3","1","nc|!F!Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.","nc|!F!Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.","c","nc|!F!Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.","nc|!F!Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.","nc|!F!Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.",,,,,,,
+"3","2","nc|!F!Le contraste de la mention ""Publié le 05/01/2022"" n'est pas sufficant","c","c","c","c","c",,,,,,,
+"3","3","na","na","na","na","na","na",,,,,,,
+"4","1","na","na","na","na","na","na",,,,,,,
+"4","2","na","na","na","na","na","na",,,,,,,
+"4","3","na","na","na","na","na","na",,,,,,,
+"4","4","na","na","na","na","na","na",,,,,,,
+"4","5","na","na","na","na","na","na",,,,,,,
+"4","6","na","na","na","na","na","na",,,,,,,
+"4","7","na","na","na","na","na","na",,,,,,,
+"4","8","na","na","na","na","na","na",,,,,,,
+"4","9","na","na","na","na","na","na",,,,,,,
+"4","10","na","na","na","na","na","na",,,,,,,
+"4","11","na","na","na","na","na","na",,,,,,,
+"4","12","na","na","na","na","na","na",,,,,,,
+"4","13","na","na","na","na","na","na",,,,,,,
+"5","1","na","na","na","na","na","na",,,,,,,
+"5","2","na","na","na","na","na","na",,,,,,,
+"5","3","na","na","na","na","na","na",,,,,,,
+"5","4","na","na","na","na","na","na",,,,,,,
+"5","5","na","na","na","na","na","na",,,,,,,
+"5","6","na","na","na","na","na","na",,,,,,,
+"5","7","na","na","na","na","na","na",,,,,,,
+"5","8","na","na","na","na","na","na",,,,,,,
+"6","1","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description","nc|!F!Le bloc marque a l'attribut `alt=""logo République française""`. Le mieux serait de faire un lien composite avec le nom du service. Ex. https://gouvfr.atlassian.net/wiki/spaces/DB/pages/222789846/En-t+te+-+Header#[hardBreak]En-t%C3%AAte-simple-avec-nom-de-service-et-description",,,,,,,
+"6","2","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1.","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1.","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1.","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1.","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1.","nc|!F!L'icone ""home"" n'ayant pas d'alternative, le lien n'a pas d'intitulé. voir 1.1.",,,,,,,
+"7","1","nc|!M!Chaque actualité s’ouvre dans une fenêtre modale qui ne respecte pas le design pattern aria. Le lien ""Voir plus d'actualités"" pose également problème et n'est pas utilisable au clavier","nc|!M!Le bouton Franceconnect n'est ni un élément bouton et ni un lien (pas d'attribut ""href""... ","na","na","nc|!M!La faq n'est pas utilisable au clavier : les questions ne prennent pas le focus et les définitions ne peuvent pas être pliées ou déplies","na",,,,,,,
+"7","2","na","na","na","na","na","na",,,,,,,
+"7","3","na","na","na","na","na","na",,,,,,,
+"7","4","nc|L'utilisateur n'est pas averti du chargement de nouvelles actualités","na","na","na","nc|!M!La faq utilise les attributs `role=""tab*""` mais ne respecte pas scrupuleusement le [design pattern aria correpondant](https://www.w3.org/TR/wai-aria-practices/#tabpanel). D'ailleurs, un composant [accordéon](https://gouvfr.atlassian.net/wiki/spaces/DB/pages/312082509/Accord+on+-+Accordion) ou collapse serait plus approprié","na",,,,,,,
+"7","5","na","na","na","na","na","na",,,,,,,
+"8","1","c","c","c","c","c","c",,,,,,,
+"8","2","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)","nc|!M!Le code doit être valide : [validator.w3.org](https://validator.w3.org/)",,,,,,,
+"8","3","c","c","c","c","c","c",,,,,,,
+"8","4","nc","nc","nc","nc","nc","nc",,,,,,,
+"8","5","c","c","c","c","c","c",,,,,,,
+"8","6","c","c","c","c","c","c",,,,,,,
+"8","7","na","na","na","na","na","na",,,,,,,
+"8","8","na","na","na","na","na","na",,,,,,,
+"8","9","nc","nc|Le texte n'utilise pas les balises sémantiques adaptées `<p>`, '<ul><li>`","nc|Le texte n'utilise pas de balises `<p>`","nc|Le texte n'utilise pas de balises `<p>`","nc|des éléments `<p>`sont utilisés à des fns de présentations pour ""sauter"" des lignes","c",,,,,,,
+"8","10","na","na","na","na","na","na",,,,,,,
+"9","1","nc|!F!Il manque une balise `<h1>`. ""Les actus de la mer"" devrait être dans un élément `<h2>`, chaque titre d'actu dans une élément `<h3>`. ""Informations générales"" et ""Liens utiles"" n'ont pas besoin d'être dans un `<hx>`","nc|!F!Il manque un `<h1>Espace plaisancier</h1>`. ""Se connecter"" et ""Payer le DAFN/DAP"" devraient être dans une balise `<h2>`. Retirer les balises `<hx>` d'""Informations générales"" et ""liens utiles""","nc|!F!`<h1>Mentions légales</h1>`, `<h2> Éditeur</h2>`, `<h2>Directeur de la publication</h2>`, `<h2> Hébergement </h2>`. Retirer les balises `<hx>` d'""Informations générales"" et ""liens utiles""","nc|!F!Mettre `<h1>Accessiblité</h1>` et les autres titres titres dans des balises `<h2>`. Retirer les balises `<hx>` d'""Informations générales"" et ""liens utiles""","nc|!F!`<h1>FAQ</h1>`, `<h2>Questions...</h2>` et chaque question dans une balise `<h3>`. Retirer les balises `<hx>` d'""Informations générales"" et ""liens utiles""","nc|!F!`<h1>Information et aide</h1>`, `<h2>Comment obtenir de l'aide</h2>` , `<h3>Plaisanciers</h3>`, `<h3>Professionnels de la plaisance</h3>`. Retirer les balises `<hx>` d'""Informations générales"" et ""liens utiles"".",,,,,,,
+"9","2","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'","nc|!F!Il manque les les balises structurantes suivantes : `<header>, `<nav>`, '<footer>'",,,,,,,
+"9","3","c","nc|Une (voire plusieurs) liste à puce devrait structurer le contenu","c","c","nc|!F!Chaque ensemble de Q/R ne doit contenir qu'un seul élément `<dl>`qui contient plusieurs `<dt><dl>'. Dans les réponses, on devrait trouver des élements `<ul><li>` plutôt que des ""tirets et des sauts de ligne""","c",,,,,,,
+"9","4","na","na","na","na","na","na",,,,,,,
+"10","1","c","c","c","c","nc|on trouve une balise `<font color=""#000000"">'. Les balises servant à la présentation de l’information sont interdites.",,,,,,,,
+"10","2","c","c","c","c","nc|Les questions et les réponses ne sont pas affichées avec la css désactivée","c",,,,,,,
+"10","3","c","c","c","c","nc|Les questions et les réponses ne sont pas affichées avec la css désactivée","c",,,,,,,
+"10","4","c","c","c","c","c","c",,,,,,,
+"10","5","c","c","c","c","c","c",,,,,,,
+"10","6","nc|!F!Les liens doivent être soulignés","nc|!F!Les liens doivent être soulignés","nc|!F!Les liens doivent être soulignés","nc|!F!Les liens doivent être soulignés","nc|!F!Les liens doivent être soulignés","nc|!F!Les liens doivent être soulignés",,,,,,,
+"10","7","nc|Aucun élément de la section ""Les actus de la mer"" ne prend le focus. Ça serait bien d'harmonisr l'outline (qui n'est pas le même sur tous les éléments)","nc|Le lien FC ne prend le focus. Ça serait bien d'harmonisr l'outline (qui n'est pas le même sur tous les éléments)","c","c","nc|!M!Aucun élément de la faq ne prend le focus. Le titre ""FAQ"" prend le focus alors qu'il ne devrait pas.","c",,,,,,,
+"10","8","na","na","na","na","c","na",,,,,,,
+"10","9","c","c","c","c","c","c",,,,,,,
+"10","10","na","na","na","na","na","na",,,,,,,
+"10","11","nc|Perte du menu en petite résolution","nc|Perte du menu en petite résolution","nc|Perte du menu en petite résolution","nc|Perte du menu en petite résolution","nc|Perte du menu en petite résolution","nc|Perte du menu en petite résolution",,,,,,,
+"10","12","c","c","c","c","c","c",,,,,,,
+"10","13","na","na","na","na","na","na",,,,,,,
+"10","14","na","na","na","na","na","na",,,,,,,
+"11","1","na","na","na","na","na","na",,,,,,,
+"11","2","na","na","na","na","na","na",,,,,,,
+"11","3","na","na","na","na","na","na",,,,,,,
+"11","4","na","na","na","na","na","na",,,,,,,
+"11","5","na","na","na","na","na","na",,,,,,,
+"11","6","na","na","na","na","na","na",,,,,,,
+"11","7","na","na","na","na","na","na",,,,,,,
+"11","8","na","na","na","na","na","na",,,,,,,
+"11","9","na","na","na","na","na","na",,,,,,,
+"11","10","na","na","na","na","na","na",,,,,,,
+"11","11","na","na","na","na","na","na",,,,,,,
+"11","12","na","na","na","na","na","na",,,,,,,
+"11","13","na","na","na","na","na","na",,,,,,,
+"12","1","nc","nc","nc","nc","nc",,,,,,,,
+"12","2","c","c","c","c","c","c",,,,,,,
+"12","3","nc","nc","nc","nc","nc","nc",,,,,,,
+"12","4","na","na","na","na","na","na",,,,,,,
+"12","5","na","na","na","na","na","na",,,,,,,
+"12","6","nc","nc","nc","nc","nc","nc",,,,,,,
+"12","7","nc","nc","nc","nc","nc","nc",,,,,,,
+"12","8","nc","nc","c","c","nc","c",,,,,,,
+"12","9","nc","nc","nc","nc","nc","nc",,,,,,,
+"12","10","na","na","na","na","na","na",,,,,,,
+"12","11","na","na","na","na","na","na",,,,,,,
+"13","1","c","c","c","c","c","c",,,,,,,
+"13","2","na","na","na","na","na","na",,,,,,,
+"13","3","na","na","na","na","na","nc|Le pdf ou la version html de l'aide ne semble pas accessible",,,,,,,
+"13","4","na","na","na","na","na","na",,,,,,,
+"13","5","c","c","c","c","c","c",,,,,,,
+"13","6","c","c","c","c","c","c",,,,,,,
+"13","7","c","c","c","c","c","c",,,,,,,
+"13","8","c","c","c","c","c","c",,,,,,,
+"13","9","c","c","c","c","c","c",,,,,,,
+"13","10","na","na","na","na","na","na",,,,,,,
+"13","11","na","na","na","na","na","na",,,,,,,
+"13","12","na","na","na","na","na","na",,,,,,,
