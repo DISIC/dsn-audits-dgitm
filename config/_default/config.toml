@@ -1,0 +1,15 @@
+_merge = "deep"
+
+languageCode = 'fr-fr'
+title = 'Direction Générale des Infrastructures, des Transports et de la Mer'
+
+[module]
+[[module.imports]]
+path = 'github.com/disic/frago'
+
+[outputs]
+ home    = ["HTML","JSON"]
+
+[params]
+  organisation = "Direction Générale des Infrastructures, des Transports et de la Mer"
+  robots = "noindex, nofollow"

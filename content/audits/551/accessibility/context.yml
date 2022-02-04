@@ -1,0 +1,29 @@
+website: "https://demarches-plaisance-qualif.din.developpement-durable.gouv.fr/puma-plaisancier/accueil"
+contacts:
+  email: __CONTACT_EMAIL__
+  address: __CONTACT_ADDRESS__
+audits:
+  "2022-02-04":
+    guidelines: "RGAA 4.1"
+    condition: "Évaluation par un tiers"
+    technologies: ["HTML", "CSS", "JavaScript"]
+    tools:
+      [
+        "Inspecteur de code Chrome",
+        "Inspecteur de code Safari",
+        "Extension Chrome Assistant RGAA",
+        "Extension Chrome HeadingsMap",
+        "Extension Chrome Web Developer",
+        "Extension Chrome Wave",
+        "Color Contrast Analyser",
+        "The W3C Markup Validation Service (validator.w3.org)",
+      ]
+    environment:
+      [
+        "MacOS Catalina 10.15.7",
+        "Brave 1.34.80 Chromium: 97.0.4692.71",
+        "Safari Version 15.2 (15612.3.6.1.8, 15612)",
+      ]
+  contact:
+    email: __CONTACT_AUDIT_01_EMAIL__
+    address: __CONTACT_AUDIT_01_ADDRESS__
