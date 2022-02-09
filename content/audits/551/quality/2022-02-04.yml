@@ -1,0 +1,130 @@
+---
+- pages:
+  - name: Toutes 
+    blocks:
+    - name: Entête
+      errors:
+        - name: Navigation
+          description: L’icône « home » de la navigation n’a pas d’alternative. Ajouter `aria-label=”accueil démarches plaisance”` ou, encore mieux, remplacer l’icône svg par le mot "Accueil".
+          criterion: 1.1
+          type: code
+          delivery: Bloquant
+        - name: Image
+          description: Le bloc marque devrait avoir un `alt="Ministère de la mer"`
+          criterion: '1.3'
+          type: code
+          delivery: Bloquant
+        - name: Langue par défaut
+          description: L’anglais est la langue définie par défaut. Mettre `<html lang="fr">` pour que la synthèse vocale prononce correctement.
+          criterion: '8.4'
+          type: code
+          delivery: Bloquant
+        - name: Menu 
+          description: 'Le menu ne fonctionne pas en mobile'
+          criterion: '10.11'
+          type: structure
+          delivery: Majeur
+        - name: Systèmes de navigation 
+          description: On peut naviguer sur le site grâce au menu, il faudrait ajouter un moteur de recherche ou une page plan du site.
+          criterion: 12.1
+          type: Navigation
+          delivery: Majeur
+        - name: Zones de la page
+          description: Les zones d’en-tête, de navigation principale, de contenu principal, de pied de page possèdent le rôle WAI-ARIA correspondant à leur nature.
+          criterion: 12.6
+          type: structure
+          delivery: Majeur
+        - name: Liens d’évitement 
+          description: Ajouter au moins un lien d’évitement pour accéder au contenu principal
+          criterion: 12.7
+          type: Navigation
+          delivery: Majeur
+        - name: Plan du ste 
+          description: Il manque un plan du site
+          criterion: 12.3
+          type: Navigation
+          delivery: Mineur
+    - name: Page
+      errors:
+        - name: Structure du contenu
+          description: Utiliser correctement les balises heading. `<h1>` puis `<h2>` et `<h3>` ... sans "trou" dans la hierarchie.
+          criterion: '9.1'
+          type: structure
+          delivery: Majeur
+        - name: Structure du document
+          description: Utiliser les balises et rôles suivants `<header>`, `<main role="main">`, `<nav role="navigation">` et `<footer role="content-info">`
+          criterion: '9.2'
+          type: structure
+          delivery: Majeur
+        - name: Code de la page
+          description:  Le code n’est pas valide. Passer le [validator.w3.org](https://validator.w3.org/)
+          type: code
+          criterion: 8.2
+          delivery: Mineur
+    - name: Menu de navigation
+      errors:
+        - name: Menu
+          description: Supprimer la `<li>` vide contenant le pipe et faire la séparation en CSS.
+          criterion: '9.3'
+          type: structure
+          delivery: Majeur
+    - name: Menu de navigation (mobile)
+      errors:
+        - name: Bouton du menu
+          description: Le menu burger devrait être un bouton `<button>` et supprimer `tabindex="-1"`. L'intitulé du menu n'est pas explicite (actuellement `aria-label="Toggle navigation"`), Remplacer par "Menu de navigation principale".
+          criterion: '7.1'
+          type: code
+          delivery: Majeur
+        - name: Navigation au clavier
+          description: Le menu burger n'est pas accessible au clavier (absence de `href` sur l'élément `<a>`).
+          criterion: '7.3'
+          type: code
+          delivery: Majeur
+  - name: Accueil
+    url: https://demarches-plaisance-qualif.din.developpement-durable.gouv.fr/puma-plaisancier/accueil
+    blocks:
+      - name: Page 
+        errors: 
+          - name: Soulignement des liens
+            description: Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.
+            type: css
+            criterion: 3.1
+            delivery: Bloquant
+      - name: Actus 
+        errors: 
+          - name: Accès aux actualités
+            description:  "Chaque actualité s’ouvre dans une fenêtre modale qui ne respecte pas le design pattern aria. Le lien “Voir plus d’actualités” pose également problème et n’est pas utilisable au clavier"
+            type: code
+            criterion: 7.1
+            delivery: Bloquant
+  - name: Espace plaisancier
+    url: https://demarches-plaisance-qualif.din.developpement-durable.gouv.fr/puma-plaisancier/plaisancier/login
+    blocks:
+      - name: Contenu 
+        errors: 
+          - name: Bouton 
+            description:  Le bouton Franceconnect n’est ni un élément `<button>` et ni un lien (pas d’attribut `href`) et n'est pas activable au clavier
+            type: Image
+            criterion: 7.1
+            delivery: Bloquant
+          - name: Alternative à l’image
+            description:  Le bouton FranceConnect devrait avoir un `alt=“S’identifier avec FranceConnect”`
+            type: Image
+            criterion: 1.3
+            delivery: Majeur
+          - name: Alternative à l’image
+            description:  Les 4 images de la page n’ont pas d’attribut `alt`
+            type: Image
+            criterion: 1.1
+            delivery: Mineur
+  - name: Mon tableau de bord (mode connecté)
+    url: https://demarches-plaisance-qualif.din.developpement-durable.gouv.fr/puma-plaisancier/plaisancier/mon-tableau-de-bord
+    blocks:
+      - name: Entête 
+        errors: 
+          - name: Alternative à l’image
+            description:  "L’icône « burger » n’a pas d’alternative. Il manque un attribut aria-label=“Mon compte”.
+            Ce bouton est-il vraiment indispensable ? On pourrait imaginer que le lien vers mon compte soit sur le nom de la personne et juste avoir un bouton de déconnexion à la place du burger menu."
+            type: texte
+            criterion: 1.1
+            delivery: Bloquant
