@@ -39,7 +39,7 @@
           criterion: 12.7
           type: Navigation
           delivery: Majeur
-        - name: Plan du ste 
+        - name: Plan du site 
           description: Il manque un plan du site
           criterion: 12.3
           type: Navigation
@@ -77,7 +77,7 @@
           criterion: 8.2
           delivery: Mineur
         - name: Utilsiation des balises
-          description:  Certains passage de texte sont dans des balises `<div>` au lieu de `<p>''. Des `<p>` sont utilisés pour sauter des lignes.
+          description:  Certains passage de texte sont dans des balises `<div>` au lieu de `<p>`. Des `<p>` sont utilisés pour sauter des lignes.
           type: code
           criterion: 8.9
           delivery: Mineur
@@ -130,6 +130,11 @@
             type: Image
             criterion: 1.3
             delivery: Majeur
+          - name: Utilisation de balises appropriées
+            description:  La liste "GÉRER, RÉÉDITER, DEMANDER, etc." devrait être balisée par des `<ul><li>`
+            type: code
+            criterion: 9.3
+            delivery: Majeur
           - name: Alternative à l’image
             description:  Les 4 images de la page n’ont pas d’attribut `alt`
             type: Image
@@ -146,3 +151,32 @@
             type: texte
             criterion: 1.1
             delivery: Bloquant
+      - name: Tableau 
+        errors: 
+          - name: Titre du tableau
+            description:  Mettre un `<caption>Historique des démarches</caption>` et retirer l’attibut `aria-describedby`
+            type: code
+            criterion: 5.4
+            delivery: Bloquant
+          - name: colonne sans intitulé
+            description: Il manque un intitulé à la dernière colonne du tableau Mes navires
+            type: code
+            criterion: 5.6
+            delivery: Bloquant 
+          - name: Bouton sans intitulé
+            description: Le bouton `<button id="dropdownMenuButton">` n’a pas d’intitulé
+            type: code
+            criterion: 7.1
+            delivery: Bloquant 
+          - name: Erreur de saisie
+            description: Lorsque l’on saisi un numéro d’enregistrement ou d’immatriculation qui n’existe pas, le message d’erreur n’est pas transmis aux aides techniques. Ajouter un attribut `role="alert"` au conteneur du message d’erreur.
+            type: code
+            criterion: 7.5
+            delivery: Majeur 
+
+
+
+
+
+
+
