@@ -173,6 +173,50 @@
             type: code
             criterion: 7.5
             delivery: Majeur 
+  - name: Déclarer la cession / vente d'un navire (mode connecté)
+    url: https://demarches-plaisance-qualif.din.developpement-durable.gouv.fr/puma-plaisancier/plaisancier/vente
+    blocks:
+      - name: Formulaire 
+        errors: 
+          - name: Étape en cours
+            description: La distinction entre les étapes passés ou à venir n’est faite que par la couleur. Ajouter un attribut aria-current="page" sur l’élément <li> correspondant et éventuellement prévoir un traitement graphique indiquant l’étape en cours.
+            type: code
+            criterion: 3.1
+            delivery: Bloquant
+          - name: Contraste
+            description: Le contraste entre l’astérisque rouge et le fond blanc n’est pas suffisant. De même pour le contrsate du pourcentagedu total des parts de (co)propriété.
+            type: css
+            criterion: 3.2
+            delivery: Majeur
+          - name: Clavier
+            description: La modification ou l’ajout de (co)propriétaire est impossible au clavier. Aucun élément ne prend le focus.
+            type: code
+            criterion: 7.1
+            delivery: Bloquant
+          - name: Clavier
+            description: La modale d’ajout de propriétaire “déborde” de l’écran et les boutons sont inateignables. En mobile, le libellé du bouton Valider “déborde” de sa boite et est illisible (blanc sur blanc)
+            type: code
+            criterion: 10.4
+            delivery: Majeur
+          - name: Clavier
+            description: Lles formulaire d’ajout de propriétaire devrait être dans un élément `<fieldset><legend>`
+            type: code
+            criterion: 11.5
+            delivery: Majeur
+          - name: Bouton
+            description: Les boutons “Ajouter un propriétaire” et “supprimer une pj” n’ont pas d’initulé
+            type: code
+            criterion: 11.9
+            delivery: Bloquant
+          - name: Information d’échec ou de réussite
+            description: Aucune info sur la réussite ou l’échec de l’ajout d’une pj
+            type: code
+            criterion: 11.10
+            delivery: Bloquant
+
+
+
+
 
 
 
