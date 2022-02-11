@@ -4,4 +4,4 @@ description = "DGITM (Ministère de la Mer) – Mise en conformité de démar
 type = "projects"
 +++
 
-{{< list-content section="projects">}}{{</ list-content >}}
+
