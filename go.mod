@@ -2,4 +2,4 @@ module gitlab.com/goodimpact/dinum/audit/__ADMINISTRATION__
 
 go 1.16
 
-require github.com/disic/frago v0.0.0-20211015142316-08f3bf1f7cca // indirect
+require github.com/disic/frago v1.4.0 // indirect
