@@ -46,6 +46,21 @@
           delivery: Mineur
     - name: Page
       errors:
+        - name: Soulignement des liens
+          description: Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.
+          type: css
+          criterion: 3.1
+          delivery: Bloquant
+        - name: Intitulé du lien
+          description: L’intitulé du lien n’est pas très pertinent `alt="logo République française"` sur une le BM "Ministère de la mer"
+          type: code
+          criterion: 6.1
+          delivery: Bloquant
+        - name: Focus
+          description: De nombreux éléments dne prennent pas le focus (le bouton FC, les actualités, l’ajout )
+          type: css
+          criterion: 10.7
+          delivery: Bloquant
         - name: Structure du contenu
           description: Utiliser correctement les balises heading. `<h1>` puis `<h2>` et `<h3>` ... sans "trou" dans la hierarchie.
           criterion: '9.1'
@@ -60,6 +75,11 @@
           description:  Le code n’est pas valide. Passer le [validator.w3.org](https://validator.w3.org/)
           type: code
           criterion: 8.2
+          delivery: Mineur
+        - name: Utilsiation des balises
+          description:  Certains passage de texte sont dans des balises `<div>` au lieu de `<p>''. Des `<p>` sont utilisés pour sauter des lignes.
+          type: code
+          criterion: 8.9
           delivery: Mineur
     - name: Menu de navigation
       errors:
@@ -83,13 +103,6 @@
   - name: Accueil
     url: https://demarches-plaisance-qualif.din.developpement-durable.gouv.fr/puma-plaisancier/accueil
     blocks:
-      - name: Page 
-        errors: 
-          - name: Soulignement des liens
-            description: Seule la couleur permet de distinguer les liens dans le texte. Il faut les souligner.
-            type: css
-            criterion: 3.1
-            delivery: Bloquant
       - name: Actus 
         errors: 
           - name: Accès aux actualités
@@ -97,6 +110,11 @@
             type: code
             criterion: 7.1
             delivery: Bloquant
+          - name: Date de publication
+            description: Le contraste de la mention "Publié le 05/01/2022" n’est pas suffisant
+            type: css
+            criterion: 3.2
+            delivery: Mineur
   - name: Espace plaisancier
     url: https://demarches-plaisance-qualif.din.developpement-durable.gouv.fr/puma-plaisancier/plaisancier/login
     blocks:
@@ -123,7 +141,7 @@
       - name: Entête 
         errors: 
           - name: Alternative à l’image
-            description:  "L’icône « burger » n’a pas d’alternative. Il manque un attribut aria-label=“Mon compte”.
+            description:  "L’icône burger n’a pas d’alternative. Il manque un attribut `aria-label=“Mon compte”`.
             Ce bouton est-il vraiment indispensable ? On pourrait imaginer que le lien vers mon compte soit sur le nom de la personne et juste avoir un bouton de déconnexion à la place du burger menu."
             type: texte
             criterion: 1.1
