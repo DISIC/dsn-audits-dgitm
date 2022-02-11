@@ -23,8 +23,9 @@ accessibility:
     environment:
       [
         "MacOS Catalina 10.15.7",
-        "Brave 1.32.115 Chromium: 96.0.4664.93",
-        "Safari Version 15.1 (15612.2.9.1.30, 15612)",
+        "Firefox 96.0.3",
+        "Chrome version 97.0.4692.99",
+        "Safari version 14.1",
       ]
   contact:
     email: __CONTACT_EMAIL__
